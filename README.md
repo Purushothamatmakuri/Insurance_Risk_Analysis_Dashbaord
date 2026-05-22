@@ -103,7 +103,7 @@ The dataset includes:
 ### Executive Summary Dashboard
 This overview page displays high-level KPIs and key performance metrics at a glance.
 
-![Executive Summary](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Screenshot%201.png?raw=true)
+![Executive Summary](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Executive%20Overview%20Dasboard.png)
 
 > **Key Metrics Shown**: Total Premium, Total Claims, Loss Ratio, Active Policies, Average Claim Amount
 
@@ -112,47 +112,29 @@ This overview page displays high-level KPIs and key performance metrics at a gla
 ### Claims Analysis Dashboard
 Detailed breakdown of claims patterns, frequency, and severity across different dimensions.
 
-![Claims Analysis](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Screenshot%202.png?raw=true)
+![Claims Analysis](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Claim%20Analysis%20Dashbaord%20.png)
 
 > **Visualizations Included**: Claims by Type, Claims Trend Over Time, Top Claims, Claims Severity Distribution
 
 ---
 
-### Customer Risk Profiling
-Comprehensive customer segmentation and risk assessment analysis.
+### Agent Performance 
+Analysing the Agent Performnace across different regions based on the customers claim and loss ratio 
 
-![Customer Risk Profiling](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Screenshot%203.png?raw=true)
+![Agent Performance Dashboard](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Agent%20Perfomance%20%20Dashboard.png)
 
 > **Analysis Focus**: Customer Demographics, Risk Scores, Claims Frequency by Customer Segment, Premium Distribution
 
 ---
 
-### Financial Performance Dashboard
-Profitability analysis and financial metrics by various dimensions.
+### Risk and Retention Dashbaord 
+Profitability analysis and financial metrics by various dimensions. 
 
-![Financial Performance](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Screenshot%204.png?raw=true)
+![Financial Performance](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Risk%26Retention%20Dashbaord.png)
 
 > **Key Indicators**: Revenue Trends, Profit Margins, Premium Income, Claims Expenses, ROI Analysis
 
----
 
-### Geographic Analysis
-Risk and premium distribution across different regions and territories.
-
-![Geographic Analysis](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Screenshot%205.png?raw=true)
-
-> **Geographic Insights**: Regional Claims Distribution, Premium by Location, Risk Hotspots, Territory Performance
-
----
-
-### Additional Views
-More detailed analytical perspectives available in the dashboard.
-
-![Additional Analysis](https://github.com/Purushothamatmakuri/Insurance_Risk_Analysis_Dashbaord/blob/main/Dashbaord%20Screenshots/Screenshot%206.png?raw=true)
-
-> **Additional Features**: Drill-through Reports, Time Series Analysis, Comparative Metrics, Custom Filters
-
----
 
 ## 📌 Quick Visual Guide
 
@@ -164,8 +146,7 @@ Below is a quick visual overview of the dashboard capabilities:
 | 📊 Claims Analysis | Claims patterns & trends | Claim Type, Frequency, Severity |
 | 👥 Risk Profiling | Customer segmentation | Risk Score, Demographics, Behavior |
 | 💰 Financial Performance | Profitability analysis | Revenue, Expenses, Margins |
-| 🗺️ Geographic View | Regional analysis | Location, Territory, Risk Hotspots |
-| 📈 Advanced Analytics | Detailed insights | Trends, Forecasts, Comparisons |
+
 
 ---
 
